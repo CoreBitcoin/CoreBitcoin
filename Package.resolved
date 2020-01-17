@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "secp256k1",
+        "repositoryURL": "git@github.com:CoreBitcoin/secp256k1.git",
+        "state": {
+          "branch": "master",
+          "revision": "c27b1a085845397f8e9d5304cc2d08f2640276a2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

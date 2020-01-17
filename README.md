@@ -1,0 +1,3 @@
+# Bitcoin
+
+Lightweight Bitcoin client.
